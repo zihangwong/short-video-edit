@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+assets/models/
+assets/card_tick.wav
+*.part
+# never commit footage, renders or episode folders
+episodes/
+*.mp4
+*.mov
+*.MOV
+*.wav
+node_modules/

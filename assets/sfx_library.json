@@ -1,0 +1,18 @@
+{
+ "_doc": "Sound for every animation. Each entry: [OpenFilm CC0 sfx id, in, out, measured file peak dBFS, target peak dBFS, offset from the visual start (s)]. Variants rotate so nothing repeats back to back. Ids come from `openfilm get sfx-search` and are copied into film/assets on demand.",
+ "slam":  [["deep-punchy-slam-801095", 0, 0.45, -1.4, -8, 0.12], ["cinematic-impact-boom-87a019", 0, 1.2, -0.3, -11, 0.12], ["punchy-slap-hit-150895", 0, 0.45, -10.2, -9, 0.12]],
+ "drop":  [["falling-dive-whoosh-eb3938", 0, 0.45, -0.9, -12, -0.03], ["deep-inward-whoosh-6c78c5", 0, 0.6, -4.3, -12, -0.05]],
+ "slide": [["quick-airy-swoosh-0f7229", 0.08, 0.6, -0.1, -12, -0.04], ["broadcast-wipe-swish-540508", 0, 0.45, -0.4, -12, -0.02], ["fast-zoom-whoosh-663019", 0, 0.6, -9.2, -12, -0.06]],
+ "pop":   [["unmute-click-pop-5886e9", 0.12, 0.6, -0.4, -12, 0], ["mouse-click-confetti-pops-767156", 0, 0.35, -1.5, -13, 0]],
+ "fade":  [["crystal-shimmer-sparkle-066fa5", 0, 0.7, -3, -17, 0], ["glassy-chime-shimmer-b048c7", 0, 0.8, -17.8, -17, 0]],
+ "black": [["quick-soft-whoosh-6fb901", 0, 0.5, -1.3, -12, -0.06], ["soft-map-zoom-whoosh-b24727", 0, 0.6, -5.4, -12, -0.08]],
+ "type":  [["typewriter-keys-burst-37c2e8", 0, 0.6, -11, -14, 0], ["soft-typewriter-keys-53671c", 0.07, 0.65, -10.1, -14, -0.05]],
+ "stamp": [["rubber-stamp-thud-7f5257", 0.05, 0.4, -4.1, -9, 0.05], ["rubber-stamp-thud-676dfc", 0, 0.45, -6.1, -9, 0.1]],
+ "flip":  [["quick-reverse-whoosh-c500c9", 0.1, 0.45, -1.1, -12, -0.08], ["card-flip-paper-6654e9", 0, 0.45, -19.6, -19.6, 0]],
+ "shake": [["distant-explosion-rumble-0d81c0", 0, 0.8, -0.4, -12, 0.06]],
+ "wave":  [["ascending-bubble-pops-6ac0d4", 0, 0.5, -13.4, -13.4, 0], ["two-cute-bubble-pops-2fcb64", 0.05, 0.45, -0.4, -13, 0]],
+ "box":   [["marker-highlight-squeak-5cb5de", 0.09, 0.6, -5.5, -15, 0]],
+ "underline": [["marker-highlight-squeak-5cb5de", 0.09, 0.6, -5.5, -15, 0]],
+ "strike": [["pen-strike-cross-out-223391", 0.68, 1.3, -10.7, -13, 0]],
+ "check": [["bright-correct-ding-d38f8a", 0, 0.9, -7.9, -13, 0]]
+}

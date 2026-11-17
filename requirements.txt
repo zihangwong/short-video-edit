@@ -1,0 +1,8 @@
+faster-whisper
+onnxruntime-directml ; sys_platform == "win32"
+onnxruntime ; sys_platform != "win32"
+numpy
+jieba
+opencc-python-reimplemented
+fonttools
+matplotlib

@@ -1,0 +1,21 @@
+{
+ "title": "EP01 Your title",
+ "out_name": "EP01_your_title",
+ "source": "path/to/raw_footage.MOV",
+ "script": "path/to/script.pdf",
+ "language": "zh",
+ "speed": 1.2,
+ "font": "work/fonts/NotoSansSC-Black-Static.ttf",
+ "bgm": "focused-workflow-groove-cd2d94",
+ "platform": "tiktok",
+ "keywords": ["关键词"],
+ "words": ["关键词"],
+ "steps": [],
+ "cta": {"a": 0, "b": 9999, "text": "留言「关键词」", "sub": "免费领 xxx"},
+ "designer_cards": [],
+ "drive_folder": "",
+ "card_dy": -775,
+ "punch_in": 1.12,
+ "plate_gain": 10,
+ "captions": {"size": 110, "line": "71%", "line_black": "84%", "key_color": "#FFE600"}
+}
